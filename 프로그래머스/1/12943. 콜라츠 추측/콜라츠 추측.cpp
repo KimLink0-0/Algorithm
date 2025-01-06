@@ -1,8 +1,5 @@
 #include <string>
 #include <vector>
-#include <stdio.h>
-#include <stdbool.h>
-#include <stdlib.h>
 
 using namespace std;
 
