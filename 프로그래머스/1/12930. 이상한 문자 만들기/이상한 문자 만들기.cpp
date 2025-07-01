@@ -8,7 +8,6 @@ string solution(string s) {
     
     vector<string> dividedStrings;
     string currentWord;
-    int index = 0;
     
     for (char c : s)
     {
